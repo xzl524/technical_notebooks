@@ -8,3 +8,6 @@
 
 ### 监督学习（Supervised Learning）
 * [监督学习](https://github.com/xzl524/technical_notebooks/blob/master/supervised_learning.ipynb)
+
+### 强化学习（Reinforcement Learning）
+* [强化学习](https://github.com/xzl524/technical_notebooks/blob/master/reinforcement_learning.ipynb)
